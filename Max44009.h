@@ -36,7 +36,7 @@
 #define MAX44009_CFG_CDR            0x08
 #define MAX44009_CFG_TIMER          0x07
 
-#define MAX44009_ADDRESS (0xCB) // Primary I2C Address
+#define MAX44009_ADDRESS (0x4A) // Primary I2C Address
 
 class Max44009
 {
